@@ -1,0 +1,6 @@
+{
+  "name": "PySide6 Canvas Designer",
+  "description": "一个功能齐备的 PySide6 无线画布设计器与交互式模拟器，支持缩放、平移以及图形对象交互，并可实时导出完整的 Python 桌面应用代码。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
